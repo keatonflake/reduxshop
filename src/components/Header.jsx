@@ -13,7 +13,7 @@ export const Header = () => {
     <header className="bg-slate-300 flex items-center justify-between p-4">
       <Link to="/" className="logo text-xl flex">
         <img src={Logo} className="mr-2 h-8 sm:h-9" alt="Movies-R-Us Logo" />
-        <span className="p-1">ShopTemp</span>
+        <span className="p-1">REDUX CART</span>
       </Link>
       <nav className="flex">
         <NavLink
